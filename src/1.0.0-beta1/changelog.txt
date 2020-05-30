@@ -1,0 +1,3 @@
+LYTS shader pack 1.0.0-beta1 changelog
+
+ADD: smooth light
