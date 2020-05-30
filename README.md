@@ -7,4 +7,4 @@ A shader pack for Minecraft PE/BE 1.12+
 
 ### LYTS shader 1.0.0-beta1
 
-Added smooth light
+*Making:* Make the torch light effect warmer
