@@ -4,18 +4,9 @@
         "description": "LYTS shader pack 1.0.0-beta1, for Minecraft PE/BE 1.12+",
         "name": "LYTS shader pack 1.0.0-beta1",
         "uuid": "a49b2b7d-f89d-4263-8006-efc59547cffa",
-        "version": [1, 0, 0],
-        "min_engine_version": [1, 12, 0],
-        "vanilla": [1, 12, 0]
+        "min_engine_version": [1, 13, 0],
+        "vanilla": [1, 13, 0]
     },
-    "modules": [
-        {
-            "description": "Smooth light for LYTS shader pack",
-            "type": "interface",
-            "uuid": "bbd21421-ea2c-42e8-9ee0-8ac29f409d5c",
-            "version": [1, 0, 0]
-        }
-    ],
     "metadata": [
         {
             "authors": [
